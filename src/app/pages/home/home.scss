@@ -1,0 +1,22 @@
+:host {
+  display: block;
+}
+
+.home {
+  --home-background: #fffaf3;
+  --home-primary: #6c4778;
+  --home-text: #382d35;
+  --home-accent: #ead9ed;
+
+  min-height: 100%;
+  background-color: var(--home-background);
+  color: var(--home-text);
+}
+.hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 70vh;
+  padding: 48px 24px;
+  overflow: hidden;
+}
