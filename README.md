@@ -1,3 +1,5 @@
+# Manaca-Cafeteria
+Projeto de estudo em Angular com o desing desenvolvido no Figma para desenvolvimento de um site de cafeteria fictícia afim de aprimorar conhecimento aprendidos na aula de desenvolvimento web.
 # ManacaCafeteria
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.7.
